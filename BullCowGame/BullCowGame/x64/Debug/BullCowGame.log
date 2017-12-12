@@ -1,0 +1,7 @@
+﻿  main.cpp
+  FBullCowGame.cpp
+c:\users\aaron\downloads\uecourse\section_02\bullcowgame\fbullcowgame.cpp(11): warning C4267: 'return': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\aaron\downloads\uecourse\section_02\bullcowgame\fbullcowgame.cpp(17): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\aaron\downloads\uecourse\section_02\bullcowgame\fbullcowgame.cpp(54): warning C4267: 'initializing': conversion from 'size_t' to 'int32', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Aaron\Downloads\UECourse\Section_02\x64\Debug\BullCowGame.exe'
